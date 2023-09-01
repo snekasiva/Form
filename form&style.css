@@ -1,0 +1,43 @@
+.container{
+    width: 70%;
+    margin:auto;
+    border:2px dotted blue;
+    padding: 40px;
+   /* background-color: rgb(163, 186, 207,0.5);*/
+   background-image: url(forms.png);
+   background-size: cover;
+   background-position: top-left;
+    background-attachment: fixed;
+    border-radius: 30px;
+    
+}
+.container h1{
+    text-transform: uppercase;
+    color: black;
+}
+.row{
+    display: flex;
+    color: black;
+}
+.col-1{
+    width: 50%;  
+}
+.input-1{
+    width: 80%;
+    height: 40px;
+}
+.col-2{
+    width: 50%;
+}
+.input-2{
+    width: 90%;
+    height: 40px;
+}
+.input-3{
+    width: 90%;
+    height: 100px;
+}
+.input-4{
+    width: 90.5%;
+    height: 40px;
+}
